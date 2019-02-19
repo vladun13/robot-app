@@ -2,7 +2,7 @@
   "name": "robotfriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vladun13/robot-friends",
+  "homepage": "https://vladun13.github.io/robot-friends",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
