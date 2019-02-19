@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vladun13/robotfriends/precache-manifest.5c07dd82deb93f03f64027295df45e07.js"
+  "/vladun13/robot-friends/precache-manifest.6130bf96bb98b3db7b5665f5125f5eff.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/vladun13/robotfriends/index.html", {
+workbox.routing.registerNavigationRoute("/vladun13/robot-friends/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
